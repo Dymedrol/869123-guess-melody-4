@@ -16,6 +16,7 @@ exports[`Проверка снепшота компонента App 1`] = `
   </div>
   <button
     className="welcome__button"
+    onClick={[Function]}
   >
     <span
       className="visually-hidden"
@@ -38,6 +39,7 @@ exports[`Проверка снепшота компонента App 1`] = `
   >
     <li>
       За 
+      20
        минут нужно ответить на все вопросы.
     </li>
     <li>
