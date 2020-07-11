@@ -4,7 +4,7 @@ import {WelcomeScreen} from '../welcome-screen/welcome-screen.jsx';
 import ArtistQuestionScreen from '../artist-question-screen/artist-question-screen.jsx';
 import GenreQuestionScreen from '../genre-question-screen/genre-question-screen.jsx';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
-import GameType from "../../const.js";
+import {GameType} from "../../const.js";
 
 class App extends PureComponent {
   constructor(props) {
